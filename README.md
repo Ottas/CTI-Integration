@@ -22,12 +22,24 @@ In this detection lab, the goal is to use an open-source Threat Intelligence pla
 - Github
 - AlienVault OTX - Platform to collect and share threat intelligence data.
 
+---
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+#### 1.Setup OpenCTI
 
-Example below.
+-Ubuntu Server installation in VirtualMachine and SSH connection via PowerShell
+![111111111111111](https://github.com/user-attachments/assets/c003de98-949c-44cc-9493-c4891cc31e2b)
 
-*Ref 1: Network Diagram*
+-After installing `Docker` and `OpenCTI` -> `sudo apt-get install docker-compose` . Once Docker is installed, we clone the repository.
+
+git clone - > `https://docs.opencti.io/latest/deployment/installation/#using-docker`
+![33333333333333333](https://github.com/user-attachments/assets/030531f4-e39b-4af1-ae36-83a61f65eba5)
+
+-This file contain all the configuration that `Docker` will reference
+![4444444444444](https://github.com/user-attachments/assets/2aff33d8-851c-471d-bf6a-6bb23efff8f5)
+
+
+
+
+
