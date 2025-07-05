@@ -10,6 +10,7 @@ In this detection lab, the goal is to use an open-source Threat Intelligence pla
 - Deployed Ubuntu server and integrated it with `OpenCTI` and `Splunk` for centralized threat intelligence management.
 - Used `GitHub` to manage code and integrated it into `Docker Compose` (YAML) for automated deployment.
 - Learned to deploy and manage applications using `Docker containers`
+- Connecting and integrating `AlienVault` OTX with security platforms via API.
 - Developed and managed `CTI feeds` for threat intelligence integration.
 - Enhanced critical thinking, problem-solving, and troubleshooting abilities during lab design projects.
 
@@ -18,7 +19,8 @@ In this detection lab, the goal is to use an open-source Threat Intelligence pla
 - OpenCTI - Threat Intelligence Platform
 - Docker -  for packaging, distributing, and running applications in isolated environments
 - Splunk - (SIEM) 
-- Github 
+- Github
+- AlienVault OTX - Platform to collect and share threat intelligence data.
 
 
 ## Steps
